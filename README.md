@@ -2,7 +2,7 @@
 This is an Programming Challenge 
 
 ## Challenge Details
-
+Challenge Details will be here soon :)
 
 ## Usage
 
